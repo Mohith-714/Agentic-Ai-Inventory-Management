@@ -1,0 +1,226 @@
+[
+  {
+    "product": "Winter Jackets",
+    "stock": 5,
+    "location": "India",
+    "price": 100,
+    "supplier": "Myntra Fashion"
+  },
+  {
+    "product": "Summer Hats",
+    "stock": 10,
+    "location": "India",
+    "price": 20,
+    "supplier": "Amazon India"
+  },
+  {
+    "product": "Running Shoes",
+    "stock": 15,
+    "location": "India",
+    "price": 60,
+    "supplier": "Decathlon Sports"
+  },
+  {
+    "product": "Sunglasses",
+    "stock": 8,
+    "location": "India",
+    "price": 50,
+    "supplier": "Lenskart"
+  },
+  {
+    "product": "Backpacks",
+    "stock": 12,
+    "location": "India",
+    "price": 80,
+    "supplier": "Wildcraft India"
+  },
+  {
+    "product": "Raincoats",
+    "stock": 7,
+    "location": "India",
+    "price": 70,
+    "supplier": "Flipkart Fashion"
+  },
+  {
+    "product": "Beanies",
+    "stock": 20,
+    "location": "India",
+    "price": 25,
+    "supplier": "Ajio Lifestyle"
+  },
+  {
+    "product": "Flip Flops",
+    "stock": 30,
+    "location": "India",
+    "price": 15,
+    "supplier": "Bata India"
+  },
+  {
+    "product": "Hiking Boots",
+    "stock": 9,
+    "location": "India",
+    "price": 120,
+    "supplier": "Decathlon Sports"
+  },
+  {
+    "product": "Gloves",
+    "stock": 14,
+    "location": "India",
+    "price": 30,
+    "supplier": "Amazon India"
+  },
+  {
+    "product": "Scarves",
+    "stock": 11,
+    "location": "India",
+    "price": 35,
+    "supplier": "Myntra Fashion"
+  },
+  {
+    "product": "T-Shirts",
+    "stock": 25,
+    "location": "India",
+    "price": 18,
+    "supplier": "Ajio Lifestyle"
+  },
+  {
+    "product": "Jeans",
+    "stock": 13,
+    "location": "India",
+    "price": 55,
+    "supplier": "Myntra Fashion"
+  },
+  {
+    "product": "Sneakers",
+    "stock": 17,
+    "location": "India",
+    "price": 75,
+    "supplier": "Nike India"
+  },
+  {
+    "product": "Wool Socks",
+    "stock": 22,
+    "location": "India",
+    "price": 12,
+    "supplier": "Amazon India"
+  },
+  {
+    "product": "Baseball Caps",
+    "stock": 19,
+    "location": "India",
+    "price": 22,
+    "supplier": "Puma India"
+  },
+  {
+    "product": "Swimwear",
+    "stock": 16,
+    "location": "India",
+    "price": 40,
+    "supplier": "Decathlon Sports"
+  },
+  {
+    "product": "Leather Belts",
+    "stock": 21,
+    "location": "India",
+    "price": 28,
+    "supplier": "Ajio Lifestyle"
+  },
+  {
+    "product": "Formal Shoes",
+    "stock": 6,
+    "location": "India",
+    "price": 90,
+    "supplier": "Bata India"
+  },
+  {
+    "product": "Casual Shirts",
+    "stock": 18,
+    "location": "India",
+    "price": 45,
+    "supplier": "Flipkart Fashion"
+  },
+  {
+    "product": "Cargo Pants",
+    "stock": 4,
+    "location": "India",
+    "price": 65,
+    "supplier": "Wildcraft India"
+  },
+  {
+    "product": "Hoodies",
+    "stock": 23,
+    "location": "India",
+    "price": 50,
+    "supplier": "Myntra Fashion"
+  },
+  {
+    "product": "Dress Shirts",
+    "stock": 3,
+    "location": "India",
+    "price": 70,
+    "supplier": "Peter England"
+  },
+  {
+    "product": "Chinos",
+    "stock": 24,
+    "location": "India",
+    "price": 60,
+    "supplier": "Allen Solly"
+  },
+  {
+    "product": "Trench Coats",
+    "stock": 2,
+    "location": "India",
+    "price": 110,
+    "supplier": "Myntra Fashion"
+  },
+  {
+    "product": "Graphic Tees",
+    "stock": 27,
+    "location": "India",
+    "price": 20,
+    "supplier": "Ajio Lifestyle"
+  },
+  {
+    "product": "Denim Jackets",
+    "stock": 1,
+    "location": "India",
+    "price": 95,
+    "supplier": "Levis India"
+  },
+  {
+    "product": "Athletic Shorts",
+    "stock": 28,
+    "location": "India",
+    "price": 25,
+    "supplier": "Decathlon Sports"
+  },
+  {
+    "product": "Polo Shirts",
+    "stock": 26,
+    "location": "India",
+    "price": 40,
+    "supplier": "Nike India"
+  },
+  {
+    "product": "Winter Boots",
+    "stock": 0,
+    "location": "India",
+    "price": 130,
+    "supplier": "Woodland India"
+  },
+  {
+    "product": "Sun Hats",
+    "stock": 29,
+    "location": "India",
+    "price": 18,
+    "supplier": "Amazon India"
+  },
+  {
+    "product": "Yoga Pants",
+    "stock": 31,
+    "location": "India",
+    "price": 55,
+    "supplier": "Decathlon Sports"
+  }
+]

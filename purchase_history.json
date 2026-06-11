@@ -1,0 +1,226 @@
+[
+  {
+    "product": "Winter Jackets",
+    "date": "2025-12-01",
+    "quantity": 25,
+    "price": 100,
+    "lead_time_days": 3
+  },
+  {
+    "product": "Summer Hats",
+    "date": "2025-11-05",
+    "quantity": 35,
+    "price": 20,
+    "lead_time_days": 4
+  },
+  {
+    "product": "Running Shoes",
+    "date": "2025-11-20",
+    "quantity": 20,
+    "price": 60,
+    "lead_time_days": 5
+  },
+  {
+    "product": "Sunglasses",
+    "date": "2025-11-25",
+    "quantity": 18,
+    "price": 50,
+    "lead_time_days": 5
+  },
+  {
+    "product": "Backpacks",
+    "date": "2025-12-02",
+    "quantity": 15,
+    "price": 80,
+    "lead_time_days": 6
+  },
+  {
+    "product": "Raincoats",
+    "date": "2025-11-28",
+    "quantity": 22,
+    "price": 70,
+    "lead_time_days": 6
+  },
+  {
+    "product": "Beanies",
+    "date": "2025-10-30",
+    "quantity": 50,
+    "price": 25,
+    "lead_time_days": 2
+  },
+  {
+    "product": "Flip Flops",
+    "date": "2025-11-12",
+    "quantity": 60,
+    "price": 15,
+    "lead_time_days": 2
+  },
+  {
+    "product": "Hiking Boots",
+    "date": "2025-12-05",
+    "quantity": 10,
+    "price": 120,
+    "lead_time_days": 7
+  },
+  {
+    "product": "Gloves",
+    "date": "2025-11-18",
+    "quantity": 30,
+    "price": 30,
+    "lead_time_days": 3
+  },
+  {
+    "product": "Scarves",
+    "date": "2025-11-22",
+    "quantity": 28,
+    "price": 35,
+    "lead_time_days": 3
+  },
+  {
+    "product": "T-Shirts",
+    "date": "2025-10-25",
+    "quantity": 70,
+    "price": 18,
+    "lead_time_days": 1
+  },
+  {
+    "product": "Jeans",
+    "date": "2025-11-14",
+    "quantity": 40,
+    "price": 55,
+    "lead_time_days": 4
+  },
+  {
+    "product": "Sneakers",
+    "date": "2025-11-30",
+    "quantity": 33,
+    "price": 75,
+    "lead_time_days": 5
+  },
+  {
+    "product": "Wool Socks",
+    "date": "2025-10-28",
+    "quantity": 80,
+    "price": 12,
+    "lead_time_days": 1
+  },
+  {
+    "product": "Baseball Caps",
+    "date": "2025-11-08",
+    "quantity": 45,
+    "price": 22,
+    "lead_time_days": 2
+  },
+  {
+    "product": "Swimwear",
+    "date": "2025-11-19",
+    "quantity": 38,
+    "price": 40,
+    "lead_time_days": 4
+  },
+  {
+    "product": "Leather Belts",
+    "date": "2025-11-26",
+    "quantity": 42,
+    "price": 28,
+    "lead_time_days": 3
+  },
+  {
+    "product": "Formal Shoes",
+    "date": "2025-12-03",
+    "quantity": 12,
+    "price": 90,
+    "lead_time_days": 6
+  },
+  {
+    "product": "Casual Shirts",
+    "date": "2025-11-16",
+    "quantity": 36,
+    "price": 45,
+    "lead_time_days": 4
+  },
+  {
+    "product": "Cargo Pants",
+    "date": "2025-11-29",
+    "quantity": 14,
+    "price": 65,
+    "lead_time_days": 5
+  },
+  {
+    "product": "Hoodies",
+    "date": "2025-11-21",
+    "quantity": 48,
+    "price": 50,
+    "lead_time_days": 3
+  },
+  {
+    "product": "Dress Shirts",
+    "date": "2025-12-04",
+    "quantity": 9,
+    "price": 70,
+    "lead_time_days": 6
+  },
+  {
+    "product": "Chinos",
+    "date": "2025-11-27",
+    "quantity": 44,
+    "price": 60,
+    "lead_time_days": 4
+  },
+  {
+    "product": "Trench Coats",
+    "date": "2025-10-29",
+    "quantity": 6,
+    "price": 110,
+    "lead_time_days": 1
+  },
+  {
+    "product": "Graphic Tees",
+    "date": "2025-11-09",
+    "quantity": 55,
+    "price": 20,
+    "lead_time_days": 2
+  },
+  {
+    "product": "Denim Jackets",
+    "date": "2025-12-06",
+    "quantity": 8,
+    "price": 95,
+    "lead_time_days": 7
+  },
+  {
+    "product": "Athletic Shorts",
+    "date": "2025-11-11",
+    "quantity": 62,
+    "price": 25,
+    "lead_time_days": 2
+  },
+  {
+    "product": "Polo Shirts",
+    "date": "2025-11-23",
+    "quantity": 40,
+    "price": 40,
+    "lead_time_days": 4
+  },
+  {
+    "product": "Winter Boots",
+    "date": "2025-10-31",
+    "quantity": 15,
+    "price": 130,
+    "lead_time_days": 1
+  },
+  {
+    "product": "Sun Hats",
+    "date": "2025-11-07",
+    "quantity": 58,
+    "price": 18,
+    "lead_time_days": 2
+  },
+  {
+    "product": "Yoga Pants",
+    "date": "2025-11-24",
+    "quantity": 47,
+    "price": 55,
+    "lead_time_days": 4
+  }
+]
